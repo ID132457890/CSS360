@@ -1,0 +1,4 @@
+class CSS360
+{
+    var variable: Int = 0;
+}
