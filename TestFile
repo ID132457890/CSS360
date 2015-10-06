@@ -1,4 +1,4 @@
 class CSS360
 {
-    var variable: Int = 0;
+    var variable: Int = 2;
 }
